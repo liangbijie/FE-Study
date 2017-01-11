@@ -1,9 +1,9 @@
-﻿# CQUPTBee前端开发培训体系
+# CQUPTBee前端开发培训体系2.0
 
 ##说明
 
 + 将你们完成的项目放在以姓名全拼命名的文件夹里，命名如：`yuguangjing`。注意：这里是公共repo，大家不要修改别人的文件夹或整个项目结构
-+ 每个项目一个文件夹，命名为:`yuguangjing/stage1/task1`
++ 每个项目一个文件夹，命名为:`yuguangjing/stage1/task01` *一定要有合理的文件结构!!!*
 + 学习路线
  + [Level1 前端初窥传送门](/source/Stage1.md)
  + [Level2 小试牛刀传送门](/source/Stage2.md)
